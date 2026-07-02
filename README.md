@@ -22,8 +22,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)<br><br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minyoung0303&show_icons=true&theme=dracula)<br>
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minyoung0303&theme=dracula)
 
