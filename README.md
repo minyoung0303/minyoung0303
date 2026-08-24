@@ -54,4 +54,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:choyeon03@gmail.com)
 [![Naver Blog](https://img.shields.io/badge/Naver_Blog-03C75A?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/lovedtm_905/)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:17a06b,100:0d1815&height=140&section=footer&reversal=true)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:17a06b,100:0d1815&height=160&section=footer&reversal=true&text=Scroll%20down%20for%20projects%20%F0%9F%91%87&fontColor=ffffff&fontSize=22&fontAlignY=70)
+
